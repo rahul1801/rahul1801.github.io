@@ -7,11 +7,10 @@ redirect_from:
   - /about.html
 ---
 
-Hello! I am a 3rd year Ph.D. student at Arizona State University's School of Computing and Augmented Intelligence (SCAI). I work with [Hannah Kerner] (https://hannah-rae.github.io/) on algorithmic biases in vision and language tasks. I am curios to learn what factors cause biases in AI models.
+Hello! I am a 3rd year Ph.D. student at Arizona State University's School of Computing and Augmented Intelligence (SCAI). I work with [Hannah Kerner](https://hannah-rae.github.io/) on algorithmic biases in vision and language tasks. I am curios to learn what factors cause biases in AI models.
 
-Prior to joining ASU, I worked as a Junior Research Fellow at IIIT Hyderabad with Ravi Kiran S. I worked on a varitely of vision applications, including pose estimation, object tracking, and segmentation. I completed my undergraduate study in Computer Science from Amrita University in 2020.  
+Prior to joining ASU, I worked as a Junior Research Fellow at [IIIT Hyderabad](https://www.iiit.ac.in/) with [Ravi Kiran S](https://ravika.github.io/index.html). I worked on a varitely of vision applications, including pose estimation, object tracking, and segmentation. I completed my undergraduate study in Computer Science from [Amrita University](https://www.amrita.edu/) in 2020.  
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
 Preprints
 ======
