@@ -17,4 +17,4 @@ Preprints
 
 **Rahul Nair**, Gabriel Tseng, Esther Rolf, Bhanu Tokas, Hannah Kerner. "Classification Drives Geographic Bias in Street Scene Segmentation"
 
-Bhanu Tokas*, **Rahul Nair***, Hannah Kerner. "Making Bias Amplification in Balanced Datasets Directional and Interpretable"
+Bhanu Tokas\*, **Rahul Nair\***, Hannah Kerner. "Making Bias Amplification in Balanced Datasets Directional and Interpretable"
