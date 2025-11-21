@@ -14,9 +14,33 @@ Prior to joining ASU, I worked as a Junior Research Fellow at [IIIT Hyderabad](h
 To know more about my work and past experiences, feel free to check out my [CV](http://rahul1801.github.io/files/Resume_Rahul_Nair.pdf).
 
 
-Preprints
+Publications
 ======
 
-**Rahul Nair**, Gabriel Tseng, Esther Rolf, Bhanu Tokas, Hannah Kerner. [Classification Drives Geographic Bias in Street Scene Segmentation](https://arxiv.org/abs/2412.11061) arXiv preprint arXiv:2412.11061 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/dbac_wacv.png" alt="DBAC WACV" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <strong>Rahul Nair*</strong>, Bhanu Tokas*, Hannah Kerner. <a href="https://arxiv.org/abs/2503.07878">A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions</a>. WACV 2026
+  </div>
+</div>
 
-Bhanu Tokas\*, **Rahul Nair\***, Hannah Kerner. [Making Bias Amplification in Balanced Datasets Directional and Interpretable](https://arxiv.org/abs/2412.11060) arXiv preprint arXiv:2412.11060 
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/dpa_neurips.png" alt="DPA NeurIPS" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    Bhanu Tokas*, <strong>Rahul Nair*</strong>, Hannah Kerner. <a href="https://openreview.net/pdf?id=efuY2yYC1U">DPA: A one-stop metric to measure bias amplification in classification datasets</a>. NeurIPS 2025
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/classification_drives.png" alt="Classification Drives" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <strong>Rahul Nair</strong>, Bhanu Tokas, Gabriel Tseng, Esther Rolf, Hannah Kerner. <a href="https://openaccess.thecvf.com/content/CVPR2025W/TCV/papers/Nair_Classification_Drives_Geographic_Bias_in_Street_Scene_Segmentation_CVPRW_2025_paper.pdf">Classification Drives Geographic Bias in Street Scene Segmentation</a>. CVPR Workshops 2025
+  </div>
+</div>
+
+<div style="display: flex; align-items: center; margin-bottom: 20px;">
+  <img src="/images/metadata_tool.png" alt="Metadata Tool" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
+  <div>
+    <strong>Rahul Nair</strong>, Mukesh N Chugani, SK Thangavel. <a href="https://dl.acm.org/doi/abs/10.1145/3395245.3396409">Metadata: a tool to supplement data science education for the first year undergraduates</a>. ICIET 2020
+  </div>
+</div> 
