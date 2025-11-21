@@ -17,30 +17,46 @@ To know more about my work and past experiences, feel free to check out my [CV](
 Publications
 ======
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/dbac_wacv.png" alt="DBAC WACV" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
-  <div>
-    <strong>Rahul Nair*</strong>, Bhanu Tokas*, Hannah Kerner. <a href="https://arxiv.org/abs/2503.07878">A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions</a>. WACV 2026
+<div style="display: flex; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+  <img src="/images/dbac_wacv.png" alt="DBAC WACV" style="width: 250px; height: auto; margin-right: 25px; flex-shrink: 0; border-radius: 4px;">
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions</h3>
+    <p style="margin: 5px 0;"><span style="color: #d9534f; font-weight: bold;">WACV 2026</span></p>
+    <p style="margin: 8px 0; color: #555;"><strong>Rahul Nair*</strong>, Bhanu Tokas*, Hannah Kerner</p>
+    <a href="https://arxiv.org/abs/2503.07878" style="display: inline-block; padding: 6px 12px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9em; margin-top: 8px;">pdf</a>
+    <p style="margin-top: 12px; line-height: 1.6; color: #333;">This paper introduces a novel method for measuring directional bias amplification in image captioning models. We demonstrate that bias can flow in multiple directions and propose metrics to quantify these directional effects in vision-language systems.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/dpa_neurips.png" alt="DPA NeurIPS" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
-  <div>
-    Bhanu Tokas*, <strong>Rahul Nair*</strong>, Hannah Kerner. <a href="https://openreview.net/pdf?id=efuY2yYC1U">DPA: A one-stop metric to measure bias amplification in classification datasets</a>. NeurIPS 2025
+<div style="display: flex; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+  <img src="/images/dpa_neurips.png" alt="DPA NeurIPS" style="width: 250px; height: auto; margin-right: 25px; flex-shrink: 0; border-radius: 4px;">
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">DPA: A one-stop metric to measure bias amplification in classification datasets</h3>
+    <p style="margin: 5px 0;"><span style="color: #d9534f; font-weight: bold;">NeurIPS 2025</span></p>
+    <p style="margin: 8px 0; color: #555;">Bhanu Tokas*, <strong>Rahul Nair*</strong>, Hannah Kerner</p>
+    <a href="https://openreview.net/pdf?id=efuY2yYC1U" style="display: inline-block; padding: 6px 12px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9em; margin-top: 8px;">pdf</a>
+    <p style="margin-top: 12px; line-height: 1.6; color: #333;">We present DPA (Directional Parity Analysis), a comprehensive metric for quantifying bias amplification in classification tasks. Our approach provides a unified framework for measuring how models amplify existing dataset biases across different protected attributes.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/classification_drives.png" alt="Classification Drives" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
-  <div>
-    <strong>Rahul Nair</strong>, Bhanu Tokas, Gabriel Tseng, Esther Rolf, Hannah Kerner. <a href="https://openaccess.thecvf.com/content/CVPR2025W/TCV/papers/Nair_Classification_Drives_Geographic_Bias_in_Street_Scene_Segmentation_CVPRW_2025_paper.pdf">Classification Drives Geographic Bias in Street Scene Segmentation</a>. CVPR Workshops 2025
+<div style="display: flex; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+  <img src="/images/classification_drives.png" alt="Classification Drives" style="width: 250px; height: auto; margin-right: 25px; flex-shrink: 0; border-radius: 4px;">
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">Classification Drives Geographic Bias in Street Scene Segmentation</h3>
+    <p style="margin: 5px 0;"><span style="color: #d9534f; font-weight: bold;">CVPR Workshops 2025</span></p>
+    <p style="margin: 8px 0; color: #555;"><strong>Rahul Nair</strong>, Bhanu Tokas, Gabriel Tseng, Esther Rolf, Hannah Kerner</p>
+    <a href="https://openaccess.thecvf.com/content/CVPR2025W/TCV/papers/Nair_Classification_Drives_Geographic_Bias_in_Street_Scene_Segmentation_CVPRW_2025_paper.pdf" style="display: inline-block; padding: 6px 12px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9em; margin-top: 8px;">pdf</a>
+    <p style="margin-top: 12px; line-height: 1.6; color: #333;">This work investigates how classification-based training objectives contribute to geographic bias in semantic segmentation models. We show that models trained on street scene datasets exhibit systematic performance disparities across different geographic regions.</p>
   </div>
 </div>
 
-<div style="display: flex; align-items: center; margin-bottom: 20px;">
-  <img src="/images/metadata_tool.png" alt="Metadata Tool" style="width: 200px; height: auto; margin-right: 20px; flex-shrink: 0;">
-  <div>
-    <strong>Rahul Nair</strong>, Mukesh N Chugani, SK Thangavel. <a href="https://dl.acm.org/doi/abs/10.1145/3395245.3396409">Metadata: a tool to supplement data science education for the first year undergraduates</a>. ICIET 2020
+<div style="display: flex; margin-bottom: 30px; padding: 20px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
+  <img src="/images/metadata_tool.png" alt="Metadata Tool" style="width: 250px; height: auto; margin-right: 25px; flex-shrink: 0; border-radius: 4px;">
+  <div style="flex: 1;">
+    <h3 style="margin-top: 0; margin-bottom: 10px; font-size: 1.2em;">Metadata: a tool to supplement data science education for the first year undergraduates</h3>
+    <p style="margin: 5px 0;"><span style="color: #d9534f; font-weight: bold;">ICIET 2020</span></p>
+    <p style="margin: 8px 0; color: #555;"><strong>Rahul Nair</strong>, Mukesh N Chugani, SK Thangavel</p>
+    <a href="https://dl.acm.org/doi/abs/10.1145/3395245.3396409" style="display: inline-block; padding: 6px 12px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 4px; font-size: 0.9em; margin-top: 8px;">pdf</a>
+    <p style="margin-top: 12px; line-height: 1.6; color: #333;">We introduce MetaData, an educational tool designed to enhance data science learning for first-year undergraduate students. The tool provides interactive visualizations and guided workflows to help students understand fundamental concepts in data analysis and statistics.</p>
   </div>
 </div> 
