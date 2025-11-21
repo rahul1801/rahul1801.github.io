@@ -18,13 +18,13 @@ Publications
 ======
 
 <div style="display: flex; align-items: stretch; margin-bottom: 20px; padding: 15px; border: 1px solid #ddd; border-radius: 8px; background-color: #f9f9f9;">
-  <img src="/images/dbac_wacv.png" alt="DBAC WACV" style="width: 450px; height: auto; margin-right: 20px; flex-shrink: 0; border-radius: 4px; object-fit: contain;">
+  <img src="/images/dbac_wacv.png" alt="DBAC WACV" style="width: 350px; height: auto; margin-right: 20px; flex-shrink: 0; border-radius: 4px; object-fit: contain;">
   <div style="flex: 1; display: flex; flex-direction: column;">
     <h3 style="margin-top: 0; margin-bottom: 5px; font-size: 0.5em;">A Woman with a Knife or A Knife with a Woman? Measuring Directional Bias Amplification in Image Captions</h3>
-    <p style="margin: 2px 0;"><span style="color: #d9534f; font-weight: bold; font-size: 0.25em;">WACV 2026</span></p>
-    <p style="margin: 4px 0; color: #555; font-size: 0.20em;"><strong>Rahul Nair*</strong>, Bhanu Tokas*, Hannah Kerner</p>
+    <p style="margin: 2px 0;"><span style="color: #d9534f; font-weight: bold; font-size: 0.45em;">WACV 2026</span></p>
+    <p style="margin: 4px 0; color: #555; font-size: 0.45em;"><strong>Rahul Nair*</strong>, Bhanu Tokas*, Hannah Kerner</p>
     <a href="https://arxiv.org/abs/2503.07878" style="display: inline-block; padding: 3px 8px; background-color: #d9534f; color: white; text-decoration: none; border-radius: 1px; font-size: 0.15em; margin-top: 4px; width: fit-content;">pdf</a>
-    <p style="margin-top: 6px; line-height: 1.3; color: #333; font-size: 0.2em;">This paper introduces a novel method for measuring directional bias amplification in image captioning models. We demonstrate that bias can flow in multiple directions and propose metrics to quantify these directional effects in vision-language systems.</p>
+    <p style="margin-top: 3px; line-height: 1.3; color: #333; font-size: 0.40em;">This paper introduces a novel method for measuring directional bias amplification in image captioning models. We demonstrate that bias can flow in multiple directions and propose metrics to quantify these directional effects in vision-language systems.</p>
   </div>
 </div>
 
